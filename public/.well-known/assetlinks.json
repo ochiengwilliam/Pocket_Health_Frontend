@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.pockethealth.twa",
+        "sha256_cert_fingerprints": ["A6:79:DB:22:40:B5:34:5A:BD:3F:FB:1E:F0:C3:6D:D2:C8:CE:F2:A1:14:33:60:B1:B7:9F:D0:55:E1:1B:9E:72"]
+      }
+    }]
